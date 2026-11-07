@@ -1,3 +1,8 @@
+---
+layout: page
+title: Homework 5
+permalink: /hw5/
+---
 ## Building Inventory Visualizations
 
 **[Link to the Dataset](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)**
