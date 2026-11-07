@@ -1,7 +1,7 @@
 ## Building Inventory Visualizations
 
 **[Link to the Dataset](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)**
-**[Link to my Python Notebook]([INSERT NOTEBOOK LINK HERE])**
+**[Link to my Python Notebook](https://github.com/jacobbirger/jacobbirger.github.io/blob/main/hw5analysis.ipynb)**
 
 ### Plot 1: Total Square Footage by Building Status
 
